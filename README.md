@@ -7,9 +7,8 @@ we create only one object you can make many as you want or array of it, next few
 Here is a quick review of the struct in details,
 A structure is a user-defined data type in C/C++. A structure creates a data type that can be used to group items of possibly different types into a single type. //definition from Geeks for Geeks
 
-struct structureName{
-member;
-};
+![image](https://user-images.githubusercontent.com/37741507/149577807-6b62fe3c-3019-4306-8195-087df1104c8d.png)
+
 
 Structures in C++ can contain two types of members:  
 
@@ -18,9 +17,7 @@ Member Functions: These members are normal C++ functions. Along with variables, 
 
 To access the data inside the struct:
 
-structureName ObjectFromStruct;
-ObjectFromStruct.member = Value;
-
+![image](https://user-images.githubusercontent.com/37741507/149577834-4fae8a8c-1383-4f50-8896-bf57172461a1.png)
 
 
 from more information about structs 
