@@ -8,7 +8,7 @@ Here is a quick review of the struct in details,
 A structure is a user-defined data type in C/C++. A structure creates a data type that can be used to group items of possibly different types into a single type. //definition from Geeks for Geeks
 
 struct structureName{
-    member;
+member;
 };
 
 Structures in C++ can contain two types of members:  
